@@ -36,6 +36,13 @@
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/apachemaven-C71A36?style=flat-square&logo=apachemaven&logoColor=white">
 </div>
+<br><br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhazlt&show_icons=true&theme=rose)
+  
+
+
 
 <!--
 **fhazlt/fhazlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
