@@ -3,7 +3,8 @@
   <h1>👏Thank you for visiting Fhazlt's GitHub page👏</h1>
   <h3>🌟Never-Ending Improvement🌟</h3>
 <h3>I am a strong believer in the concept of 'Never-Ending Improvement'. <br>
-  I am always eager to learn new things and expand my knowledge, while remaining open to feedback and constructive criticism to continue to grow as a person and as a professional.</h3>
+  I am always eager to learn new things and expand my knowledge, <br>
+  while remaining open to feedback and constructive criticism to continue to grow as a person and as a professional.</h3>
   
 [<img src='https://img.shields.io/badge/notion-ffffff?style=flat&logo=notion&logoColor=black'/>](https://heavenly-axolotl-d3e.notion.site/Today-I-learned-22-12-07-04d8b71711fa46d3b7bc821617749cde?pvs=4)
 <img src='https://img.shields.io/badge/fhazlt303@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white' />
