@@ -1,7 +1,16 @@
+
+<div align="center">
+  <h1>👏Thank you for visiting Fhazlt's GitHub page👏</h1>
+  <h3>🌟Never-Ending Improvement🌟</h3>
+<h3>I am a strong believer in the concept of 'Never-Ending Improvement'. <br>
+  I am always eager to learn new things and expand my knowledge, while remaining open to feedback and constructive criticism to continue to grow as a person and as a professional.</h3>
+  
 [<img src='https://img.shields.io/badge/notion-ffffff?style=flat&logo=notion&logoColor=black'/>](https://heavenly-axolotl-d3e.notion.site/Today-I-learned-22-12-07-04d8b71711fa46d3b7bc821617749cde?pvs=4)
 <img src='https://img.shields.io/badge/fhazlt303@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white' />
+[<img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffhazlt&count_bg=%23FFDAFB&title_bg=%23FBACAC&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false'/>](https://github.com/fhazlt)
+<br><br>
 
-### 💪Skills
+## 💪Skills
 <div>
   <h3>Frontend</h3>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -29,20 +38,21 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logogit&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"><br>
 <img src="https://img.shields.io/badge/elasticstack-005571?style=flat-square&logo=elasticstack&logoColor=white">
 <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=asticsearch&logoColor=white">
 <img src="https://img.shields.io/badge/mobaxterm-000000?style=flat-square&logo=mobx&logoColor=white">
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/apachemaven-C71A36?style=flat-square&logo=apachemaven&logoColor=white">
 </div>
+</div>
 <br><br><br>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhazlt&show_icons=true&theme=rose)
+<div align="center">
   
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhazlt&show_icons=true&theme=rose)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhazlt&layout=compact&theme=date_night)
+</div>
 
 <!--
 **fhazlt/fhazlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
