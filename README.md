@@ -1,4 +1,9 @@
-### Hi there 👋
+[<img src='https://img.shields.io/badge/notion-000000?logo=notion'>](https://heavenly-axolotl-d3e.notion.site/Today-I-learned-22-12-07-04d8b71711fa46d3b7bc821617749cde?pvs=4)
+<img src='https://img.shields.io/badge/fhazlt303@gmail.com-EA4335?logo=gmail&logoColor=white'>
+
+### 💪Skills
+<img src='https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=white'>
+<img src='https://img.shields.io/badge/Java-007396logo=OpenJDK&logoColor=white'>
 
 <!--
 **fhazlt/fhazlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
