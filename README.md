@@ -31,7 +31,8 @@
 <img src="https://img.shields.io/badge/lombok-000000?style=flat-square&logo=flask&logoColor=white">
 <h3>Database</h3>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+ <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
 <h3>Tools & Services</h3>
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat-square&logo=amazc2&logoColor=white">
