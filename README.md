@@ -1,7 +1,7 @@
  
 <div align="center">
   <h1>👏Thank you for visiting Fhazlt's GitHub page👏</h1>
-  <h3>🌟Never-Ending Improvement🌟</h3>
+  <h3>🌟Never-Ending Improvement🌟</h3> 
 <h3>I am a strong believer in the concept of 'Never-Ending Improvement'. <br>
   I am always eager to learn new things and expand my knowledge, <br>
   while remaining open to feedback and constructive criticism to continue to grow as a person and as a professional.</h3>
