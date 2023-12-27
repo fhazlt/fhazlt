@@ -52,13 +52,14 @@
 </div>
 <br><br><br>
 
+<!--
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fhazlt&show_icons=true&theme=rose)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhazlt&layout=compact&theme=date_night)
 </div>
 
-<!--
+
 **fhazlt/fhazlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -71,4 +72,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
